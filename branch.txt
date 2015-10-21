@@ -1,1 +1,9 @@
 AM 11:19 21-10-2015
+create new branch ========= git checkout -b <branch_name>
+
+create new file in branch
+-------------------------
+1). create file in local repo and execute git add -all cmd in shell
+2). git commit -m "message"
+3). git push origin <branch_name> ========= push newly created file into github
+
