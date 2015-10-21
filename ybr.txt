@@ -1,3 +1,10 @@
 removed by ybr
 PM 06:25 20-10-2015
+
+
 AM 10:49 21-10-2015
+git add --all ========  add all modified files
+
+git commit -a =========== to commit only the modified and deleted files.
+ 
+git add --all && git commit -m "comment" ========================== One-liner to stage ALL files (modified, deleted, and new) and commit with comment:
