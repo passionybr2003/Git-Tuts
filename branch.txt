@@ -7,3 +7,4 @@ create new file in branch
 2). git commit -m "message"
 3). git push origin <branch_name> ========= push newly created file into github
 
+change from git branch to master ====== git checkout master
